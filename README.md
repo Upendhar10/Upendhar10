@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> 👩‍💻 I'm a Frontend Engineer,  based in Hyderabad, India.<br> 📚 I'm currently mastering React.js <br>⚡ In my free time I play Cricket and Badminton.</p>
+<p align="left"> 👩‍💻 I'm a Software Engineer,  based in Hyderabad, India.<br> 📚 I'm currently mastering React.js <br>⚡ In my free time I play Cricket and Badminton.</p>
 
 ###
 
