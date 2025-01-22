@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Nemmaani Upendhar.</h2>
+<h2 align="left">My name is Nemmani Upendhar.</h2>
 
 <h3 align="left">Welcome to my Github profile</h3>
 
