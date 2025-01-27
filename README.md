@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋</h1>
+<h1 align="left">Namasthe👋</h1>
 
 ###
 
@@ -8,7 +8,8 @@
 
 <p align="left"> 👩‍💻 I'm a Frontend Engineer, based in Hyderabad, India.
   <br> 📚 I'm currently mastering React.js and exploring backend with NodeJs 
-  <br>⚡ In my free time I play Cricket and Badminton.
+  <br>⚡ I am currently reading "Indistractable" by Nir Eyal.
+  <br>⚡ In would love to play Cricket or Badminton in my free time.
 </p>
 
 ###
